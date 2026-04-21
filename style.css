@@ -1,0 +1,22 @@
+body {
+            background-color: #0f1c2e; /* Warna background biru gelap sesuai desain */
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .text-dark-blue {
+            color: #0f1c2e;
+        }
+        .btn-custom-blue {
+            background-color: #2161ce;
+            color: white;
+            font-weight: 600;
+        }
+        .btn-custom-blue:hover {
+            background-color: #1a4da6;
+            color: white;
+        }
+        .feature-card {
+            min-height: 100%;
+        }
+        .profile-card {
+            background-color: #f8f9fa;
+        }
